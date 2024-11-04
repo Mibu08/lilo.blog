@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Lifelong Journey"
+title = "Mia Bürki"
+description = "Blog Einträge"
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
-footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"	
+footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
