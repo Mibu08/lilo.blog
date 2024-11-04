@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/media/pexels-technobulka-2908984-1-1-.jpg"
+icon = "/media/pexels-stephanthem-753873-1-.jpg"
+logo = "/media/pexels-stephanthem-753873-1-.jpg"
+image = "/media/pexels-stephanthem-753873-1-.jpg"
 color = "#5a4ae3"
 +++
