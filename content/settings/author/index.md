@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/img/default-author.jpg"
-url = "/about/"
+name = "Mia"
+image = "/media/pexels-stephanthem-753873-1-.jpg"
+url = "Gym 2, Gymnasium Hofwil"
 +++
