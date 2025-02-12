@@ -4,11 +4,11 @@ date = "2025-02-12"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
-image = ""
+image = "screenshot-2025-02-12-134938.png"
 description = "Markenkleider, faire Preise und Hilfe für Prostituierte und Heroinsüchtige Frauen – Prisca Blunschis „Butig“ ist mehr als ein Second-Hand-Laden. "
 footnotes = "Mia und Manon, Gymnasium Hofwil, Gym 2"
 +++
-![Prisca Blunschi in ihrem kleinen Second-Hand-Laden in Münsingen.](screenshot-2025-02-12-134938.png)
+![]()
 
 - - -
 
@@ -74,4 +74,6 @@ Mich freut es immer, wenn ich sehe, wie viele Säcke Kleidung ich an La Strada w
 
 <!--EndFragment-->
 
-![Infokasten Prisca Blunschi hat vor acht Jahren die Butig, ein Second-Hand Laden in Münsingen, übernommen. Die Butig gibt nicht verkaufte Kleidungsstücke an die Institution La Strada weiter, welche eine Anlaufstelle für Strassenfrauen und Prostituierte ist. Sie führt den Laden alleine und ist mit Herz bei der Sache dabei.]()
+###### ***Infokasten Prisca Blunschi hat vor acht Jahren die Butig, ein Second-Hand Laden in Münsingen, übernommen. Die Butig gibt nicht verkaufte Kleidungsstücke an die Institution La Strada weiter, welche eine Anlaufstelle für Strassenfrauen und Prostituierte ist. Sie führt den Laden alleine und ist mit Herz bei der Sache dabei.***
+
+![]()
