@@ -14,7 +14,7 @@ footnotes = "Mia und Manon, Gymnasium Hofwil, Gym 2"
 
 <!--StartFragment-->
 
-**Mitten in Münsingen führt Prisca Blunschi ihre „Butig“. Hier hängen sorgfältig ausgewählte Markenkleider auf den Stangen, von Street One bis Moncler. Ramsch gibt es nicht, dafür faire Konditionen für die Kundinnen. Seit acht Jahren leitet Prisca Blunschi die Butig mit Herzblut – und mit einem besonderen sozialen Engagement: Nicht verkaufte Kleidung spendet sie an die Organisation La Strada, die Frauen in schwierigen Lebenslagen unterstützt. Dadurch geht nicht verkaufte Kleidung nicht in den Müll, sondern an Frauen, die sie wirklich brauchen können.**
+Mitten in Münsingen führt Prisca Blunschi ihre „Butig“. Hier hängen sorgfältig ausgewählte Markenkleider auf den Stangen, von Street One bis Moncler. Ramsch gibt es nicht, dafür faire Konditionen für die Kundinnen. Seit acht Jahren leitet Prisca Blunschi die Butig mit Herzblut – und mit einem besonderen sozialen Engagement: Nicht verkaufte Kleidung spendet sie an die Organisation La Strada, die Frauen in schwierigen Lebenslagen unterstützt. Dadurch geht nicht verkaufte Kleidung nicht in den Müll, sondern an Frauen, die sie wirklich brauchen können.
 
 <!--EndFragment-->
 
