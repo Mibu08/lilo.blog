@@ -1,164 +1,77 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
+title = "Second-Hand mit Stil, Qualität und Herz"
+date = "2025-02-12"
 draft = false
 pinned = false
-tags = [ "Lilo", "Example" ]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+tags = ["Lilo", "Example"]
+image = ""
+description = "Markenkleider, faire Preise und Hilfe für Prostituierte und Heroinsüchtige Frauen – Prisca Blunschis „Butig“ ist mehr als ein Second-Hand-Laden. "
+footnotes = "Mia und Manon, Gymnasium Hofwil, Gym 2"
 +++
+![Prisca Blunschi in ihrem kleinen Second-Hand-Laden in Münsingen.](screenshot-2025-02-12-134938.png)
 
-{{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
-{{</lead>}}
+- - -
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+<!--StartFragment-->
 
-# Überschrift 1
+**Mitten in Münsingen führt Prisca Blunschi ihre „Butig“. Hier hängen sorgfältig ausgewählte Markenkleider auf den Stangen, von Street One bis Moncler. Ramsch gibt es nicht, dafür faire Konditionen für die Kundinnen. Seit acht Jahren leitet Prisca Blunschi die Butig mit Herzblut – und mit einem besonderen sozialen Engagement: Nicht verkaufte Kleidung spendet sie an die Organisation La Strada, die Frauen in schwierigen Lebenslagen unterstützt. Dadurch geht nicht verkaufte Kleidung nicht in den Müll, sondern an Frauen, die sie wirklich brauchen können.**
 
-So sieht die grösste Überschrift aus (H1).
+<!--EndFragment-->
 
-## Überschrift 2
+<!--StartFragment-->
 
-Dies ist die Überschrift 2 (H2).
+**Was unterscheidet diese Boutique von anderen Second-Hand-Läden?**
 
-### Überschrift 3
+Ich nehme nicht jedes Kleidungsstück. Ich nehme Markensachen (Street One und aufwärts). H&M und Ähnliches nehme ich nicht. Die Konditionen sind sehr grosszügig. Ich mache 50/50 mit den Kundinnen, oft auch 60/40. Ich möchte, dass der Laden kein Second-Hand-Ramschladen ist, sondern dass es wirklich eine Boutique ist.
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
+**Also wissen Sie von jedem Kleidungsstück, wer es Ihnen gebracht hat?**
 
-#### Überschrift 4
+Ja, genau. Wenn ich neue Kundinnen bekomme, erhalten sie eine Nummer. Jedes ihrer Kleidungsstücke ist dann mit dieser Nummer gekennzeichnet.
 
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
+**Wie werden die Preise gemacht?**
 
-## Weitere Textformatierungen
+Meistens mache ich die Preise selbst, ausser das Kleidungsstück ist sehr teuer. Normalerweise liegt der Preis bei Second-Hand-Kleidungsstücken bei einem Drittel des Originalpreises. So setze ich auch die Preise.
 
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
+**Gibt es bestimmte Kleidungsstücke, die Sie hier führen?**
 
-### Fett und Kursiv
+Es gibt eigentlich alles, abgesehen von sehr billigen Kleidungsmarken. Ich führe Street One, S.Oliver, aber auch sehr teure Sachen wie zum Beispiel einen Mantel von Moncler und Hemisphère. Meistens wird die sehr teure Kleidung weniger gekauft, da die Preise für Second-Hand dennoch sehr hoch sind. Chicorée Kleidung versuche ich zu vermeiden, weil es einfach eine nicht gute Sache ist.
 
-Natürlich gibt es auch **fett** und _kursiv_.
+**Was passiert mit der Kleidung, die Sie nicht verkaufen können?**
 
-### Links
+Am Anfang frage ich die Kundinnen, ob sie ihr Kleidungsstück nach einem halben Jahr zurück wollen oder ob es gespendet werden kann. Diese Info steht danach auf den Blättern der Kundinnen in meinem Ordner. Wenn sie es spenden wollen, geht es nach Bern zu der Organisation «La Strada». Das ist eine Organisation für Strassenfrauen, Prostituierte und Drogenabhängige, die Kleidung benötigen.
 
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
+**Wie sind Sie auf die Organisation La Strada gestoßen?**
 
-### Zitate
+Ich habe diese Boutique vor acht Jahren von einer Freundin übernommen, und sie hat das bereits eingeführt. Ich finde das eine sehr gute Sache. Oft sind die Kundinnen sehr froh, dass sie die Kleidung endlich loswerden. Viele der Kundinnen sind auch beruhigt, da die Kleidung in Bern bleibt statt zerschnitten oder sonst wo auf einen Haufen hingebracht wird. Beim Roten Kreuz wird Kleidung manchmal zerschnitten, weil es einfach zu viele Kleidungsstücke gibt. Am Ende gibt es eigentlich vier Parteien, die Freude daran haben: Die Frau, die das Kleidungsstück gebracht hat, denn sie bekommt vielleicht auch noch selbst ein bisschen Geld. Diejenige, die es als «Schnäppli» gekauft hat. Ich habe natürlich auch Freude, wenn ich etwas verkauft habe. Und die vierte Partei sind die Frauen, die Kleidung bekommen, wenn sie nicht verkauft werden kann.
 
-> «Zitate können hervorgehoben werden.»
->
-> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
+**Gibt es bestimmte Anforderungen, damit ein Kleidungsstück in Ihrer Boutique verkauft wird?**
 
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
+Es muss sauber sein, keine Löcher haben, nicht geflickt sein und nicht stinken. Oft riecht Secondhand Kleidung nach Keller, und diesen Geruch bekommt man meistens nicht mehr aus den Kleidungsstücken.
 
-### Liste
+**Führen Sie den Laden allein?**
 
-So sieht eine Liste aus:
+Ja, grundsätzlich schon. Mein Mann hilft mir beim Mailversand. Die Buchhaltung mache ich selbst. Falls ich wirklich krank bin oder es einen Notfall gibt, habe ich viele Freundinnen, die zur Not auch mal einspringen und das sehr gerne und «goodwill-mässig» tun.
 
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
 
-### Nummerierte Liste
 
-Und so eine nummerierte Liste:
+> Von meinen Kleidern kaufe ich etwa 90 Prozent hier, das hat für mich eine recht  grosse Bedeutung (Prisca Blunschi)
 
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
 
-## Bilder
 
-Bilder werden mit dem `+`-Symbol eingefügt.
+**Gibt es bestimmte Leute, die hier Kleidung bringen? Und sind es immer etwa die gleichen?**
 
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
+\
+Sowohl die, die die Kleider bringen, als auch die, die hier kaufen kommen, sind oftmals immer wieder die gleichen. Eigentlich fast so ein bisschen Stammkundinnen. Ich habe auch kein Geld, um Werbung zu machen. Das funktioniert aber recht gut, weil es sich unter den Frauen herumspricht. Es gibt aber auch immer wieder neue, die hier Kleidung vorbeibringen. Seit acht Jahren sind gut 200 neue Frauen dazugekommen. Das Alter der Kundinnen: etwa 17 bis 85 Jahre.
 
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
+**Was hat Second-Hand für Sie persönlich für eine Bedeutung?**
 
-### Tipps zu Bildgrössen
+„Lacht“\
+Also eigentlich bin ich hier eine meiner besten Kundinnen. Da ich die Erste bin, die die Sachen in die Finger bekommt, kann ich sie mir anschauen und anprobieren. Von meinen Kleidern kaufe ich etwa 90 Prozent hier, das hat für mich eine recht grosse Bedeutung. Früher hätte ich mir das nicht vorstellen können, da es mich zum Teil ein bisschen geekelt hat. Jetzt hat es für mich eine grosse Bedeutung, und ich finde es einfach eine gute Sache.
 
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
+Mich freut es immer, wenn ich sehe, wie viele Säcke Kleidung ich an La Strada weitergebe, die die Frauen einfach nicht mehr wollen – wahre Vermögen zum Teil. Tausende von Franken würden sonst einfach weggeworfen werden. Alleine mit diesem Beruf könnte ich mich nicht ernähren. Es ist wirklich vor Allem ein Hobby, dass ein bisschen Sackgeld bringt.
 
-### Bildunterschrift
 
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
 
-## Horizontale Linie
+<!--EndFragment-->
 
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
----
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
-`{{</*/lead*/>}}`
-
-## Kasten
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.  
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
-
-![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`  
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.  
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Blog!
+![Infokasten Prisca Blunschi hat vor acht Jahren die Butig, ein Second-Hand Laden in Münsingen, übernommen. Die Butig gibt nicht verkaufte Kleidungsstücke an die Institution La Strada weiter, welche eine Anlaufstelle für Strassenfrauen und Prostituierte ist. Sie führt den Laden alleine und ist mit Herz bei der Sache dabei.]()
